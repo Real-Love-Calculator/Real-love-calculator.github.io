@@ -1,4 +1,13 @@
 pubfuture.com, 67b6d1d459969b06658282ed, DIRECT
+152media.info,152M317,RESELLER
+amxrtb.com,105199329,DIRECT
+appnexus.com,12290,RESELLER
+indexexchange.com,191503,RESELLER
+lijit.com,260380,RESELLER
+loopme.com, 14120, RESELLER, 6c8d5f95897a5a3b
+pubmatic.com,158355,RESELLER
+risecodes.com, 672ca0b2468a120001c76ef9, RESELLER
+smilewanted.com, 3455, RESELLER
 152media.com, 152, DIRECT
 152media.com, 152, RESELLER
 152media.info, 152M10, RESELLER
