@@ -1,6 +1,7 @@
 pubfuture.com, 67b6d1d459969b06658282ed, DIRECT
 152media.info,152M317,RESELLER
 amxrtb.com,105199329,DIRECT
+33Across.com, 001Pg00000eHKL7IAO, RESELLER, bbea06d9c4d2853c
 appnexus.com,12290,RESELLER
 indexexchange.com,191503,RESELLER
 lijit.com,260380,RESELLER
