@@ -38,7 +38,24 @@ var juicy_tags = ['a', 'img'];
 if (top.frames.length!=0)
     top.location=self.document.location;
 //-->
-
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#f1d600"
+    }
+  },
+  "theme": "edgeless",
+  "content": {
+    "href": "/privacy.php",
+     "message": "We use cookies to personalise ads. We also share information about your use of our site with our advertising partners who may combine it with other information you've provided to them or they've collected from your use of their services."
+   }
+})});
+</script>
 <body>
 <header class="header">
   <div class="container">
@@ -152,3 +169,4 @@ if (top.frames.length!=0)
 </script>
 </body>
 </html>
+
