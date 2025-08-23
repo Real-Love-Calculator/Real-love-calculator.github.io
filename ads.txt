@@ -1,3 +1,4 @@
+gothamads.com, 1236 , RESELLER, d9c86e5dec870222
 outbrain.com, 00512545eb151d5d126f2d066b27600362, DIRECT
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a
 teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1
